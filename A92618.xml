@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New articles for peace, delivered by the Kings Majesty to the commissioners on Satturday last at the Treating-House in Newport, and the commissioners answer. With his Majesties demands touching His comming to London with honour, freedom and safety, and the passing of an act of oblivion to all his Majesties loyall subjects in all parts of his realms and dominions. Whereunto is annexed the declaration and resolution of the mayor, aldermen, and communality of the town of Newcastle in relation to the Kings Majesty and the proceedings of the treaty. Examined by the original copies, and published by authority for generall satisfaction of all his Majesties loyall subjects.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92618</idno>
+            <idno type="STC">Wing S135</idno>
+            <idno type="STC">Thomason E468_12</idno>
+            <idno type="STC">ESTC R203935</idno>
+            <idno type="STC">ESTC R205333</idno>
+            <idno type="EEBO-CITATION">99864741</idno>
+            <idno type="PROQUEST">99864741</idno>
+            <idno type="VID">162333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162333)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New articles for peace, delivered by the Kings Majesty to the commissioners on Satturday last at the Treating-House in Newport, and the commissioners answer. With his Majesties demands touching His comming to London with honour, freedom and safety, and the passing of an act of oblivion to all his Majesties loyall subjects in all parts of his realms and dominions. Whereunto is annexed the declaration and resolution of the mayor, aldermen, and communality of the town of Newcastle in relation to the Kings Majesty and the proceedings of the treaty. Examined by the original copies, and published by authority for generall satisfaction of all his Majesties loyall subjects.</title>
+                  <author>R. S.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Iones,</publisher>
+                  <pubPlace>Octob. 18. London, :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A summary of the "Kings last papers" is dated and signed on p.2: Newport 16. of Octob. 1648. R.S.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162333:1" rendition="simple:additions"/>
+            <p>NEW ARTICLES FOR PEACE, Delivered by the Kings Majeſty to the Commiſſioners on Satturday laſt at the <hi>Treating-Houſe</hi> in <hi>Newport,</hi> And the Commiſſioners Anſwer. With his Majeſties Demands touching His comming to LONDON with Honour, Freedom and Safety, And the paſſing of an Act of Oblivion to all his Majeſties Loyall Subjects in all parts of his Realms and Dominions. Whereunto is annexed the Declaration and Reſo<g ref="char:EOLhyphen"/>ſolution of the Mayor, Aldermen, and Communality of the towa of <hi>Newcaſtle</hi> in relation to the Kings Majeſty and the proceedings of the Treaty.</p>
+            <p>
+               <hi>Examined by the Original Copies, and Publiſhed by authority for Ge<g ref="char:EOLhyphen"/>nerall ſatisfaction of all his Majeſties loyall Subjects.</hi>
+            </p>
+            <figure>
+               <figDesc>crude woodcut of king in castle</figDesc>
+               <head>THE TREATING HOUSE:</head>
+               <p>THE ILE OF WAIT</p>
+            </figure>
+            <p>
+               <hi>Octob.</hi> 18. LONDON, Printed for <hi>I. Iones,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162333:2"/>
+            <pb n="1" facs="tcp:162333:2"/>
+            <head>Severall Articles of Agreement for peace, preſented by the Kings Majeſty, to the Commiſsioners upon Satturday laſt, and the Commiſsioners Anſwer thereunto.</head>
+            <opener>
+               <salute>Honoured SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have ſent you here incloſed the full and exact proceedings Betweene His Majeſty and the Commiſſioners, being in order as foloweth <hi>viz.</hi> The King condeſcended to the Propoſition for publike debts on Thurſday laſt, and on Friday granted the Propoſition ſor recalling all Ho<g ref="char:EOLhyphen"/>nours conferred on any perſon by him ſince 1642 as the Parliament deſired.</p>
+            <p>Yeſterday he told the Parliaments Commiſſioners, that the dayes allotted for the Treaty drew towards an end, and therefore he thought it time to preſent his pa<g ref="char:EOLhyphen"/>per of deſires, which were.</p>
+            <p n="1">1 That he might come to London with honour, free<g ref="char:EOLhyphen"/>dom; and ſafety.</p>
+            <p n="2">2 That he might have recompence for the yeares his Revenue hath been kept from him.</p>
+            <p n="5">
+               <pb n="2" facs="tcp:162333:3"/>3 That there may be an Act of Oblivion, <hi>That ſo the Souldierp under the Command of the Lord</hi> Fait fax <hi>may not be juſtified in what they have (but as illegall) their astions requiring an Act of Oblivion for Conquering him and his Cavaliers.</hi> Some of the Commiſſioners were willing to receive theſe Propſitions from him, but the major part muſt needs diſſent, becauſe contraty to their Inſtructi<g ref="char:EOLhyphen"/>ons, having other Propoſitions to preſent unto him, eſ<g ref="char:EOLhyphen"/>pecially that concerning Delinquents, for whom an act of Oblivion could not be granted. The Parl. Commi<g ref="char:EOLhyphen"/>ſſioners therefore preſented their paper about Delin<g ref="char:EOLhyphen"/>quents to the King to which the King deſired time till Monday to giue Anſwer; The three remaining.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Concerning the Court of Wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds. 2 Offices and places of Truſt. And 3 London his Majeſty will ſoon yeild to.</p>
+            <p>Thus having ſent you the chief heads of the Kings laſt Papers I remain,</p>
+            <closer>
+               <dateline>From Newport <date>16. of Octob. 1648.</date>
+               </dateline>
+               <signed>Your affectionate Friend R. S.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <opener>Humbly ſheweth,</opener>
+            <p>That we cannot but deeply reſent, what hath been preſented to you by the well-afected in the Southerne parts, as concerning this preſent Treaty: That if after all the Epexriences of the miſch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fes which hath happened to us from former T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaties, of all Gods wonderfull ownings of you, both formerly, and of late in midſt of ſo many oppoſitions from all hands, and of all his gracious appearings, againſt the King &amp; his party you go on to Treat before full and exemplaty Juſtice be done upon the great Incendiaries of the Kingdome, the fomenters of, and actors in the firſt and ſecond War, and the late bringing in of the Sco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, we can expect no<g ref="char:EOLhyphen"/>thing
+<pb n="3" facs="tcp:162333:3"/> as the Iſſue thereof but the ſudden diſſolution of the Parl: and Army, the deſtruction of all the wel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<g ref="char:EOLhyphen"/>ed the involvi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g of this Nation in more bloud then ever.</p>
+            <p>May it therefore pleaſe you in this Iuncture of time to he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rken to your Petitioners, who have conſtan<g ref="char:EOLunhyphen"/>ly adhered to you, and before you conclude this treaty, to execute Impartiall and ſpeedy juſtice (though upon the greateſt offenders) wherein you cannot want aſſiſt<g ref="char:EOLhyphen"/>ance from God, &amp; from man, to ſtrengthen you in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r endeavours to ſettle this Kingdom in Peace and righte<g ref="char:EOLhyphen"/>cuſnes.</p>
+         </div>
+         <div type="text">
+            <head>The Scots Proceedings examined and onſwered.</head>
+            <p>There is a natuarll diſcord between tyranny and free<g ref="char:EOLhyphen"/>dom, ſlaviſh popery and Chriſtian liberty; <hi>Acubreſe</hi> renders the reaſon thus, becauſe Chriſt the King of Kings by his righteouſnes, hath made his people free, therefore the Kings of the earth, by tyrany injuſtice or popiſh in<g ref="char:EOLhyphen"/>tereſt, cannot make themſelves.</p>
+            <p>And do the Lawes of God, man &amp; nature juſtifie the people in oppoſing, fighting againſt and impriſoning of Kinds who act contrary to their Oaths, and the truſt im<g ref="char:EOLhyphen"/>poſed on them by the people? And do not the ſame laws as much juſtify them in oppoſiug the power of Par. when they betray their truſt, in pleading the intereſt, &amp; juſtifying the cauſe of ſuch tytannous P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inces joyn with them to levy war againſt the poor people, whoſe truſtees they are only, and by whoſe Votes &amp; election they ſit in parliament, to preſerve, and nof to deſtroy them, to con<g ref="char:EOLhyphen"/>demn, and not juſtify their enemies, who have brunke with the bloud of Saints, &amp; have confeſt themſelvs guil<g ref="char:EOLhyphen"/>ty of the bloud of three hundred thouſand ſouls, that have periſhed by war in the 3 Kingdoms</p>
+            <pb n="4" facs="tcp:162333:4"/>
+            <p>The Parl. gave great encouragement by their letter the 3 of Aug. laſt, to the Miniſters of the Generall Aſ<g ref="char:EOLhyphen"/>ſembly of the Kingdom of Scot. to oppoſe the Parl. of Scot. then ſiting a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Edenb. who had made breach of their ſolemn league &amp; Covenant and their many agree<g ref="char:EOLhyphen"/>ments and Acts of Parl. paſſed in both kingdoms, in po<g ref="char:EOLhyphen"/>ſeſſing of Barw. &amp; Carlile, and for your further ſatis<g ref="char:EOLhyphen"/>faction take the words of the letter,</p>
+            <p>And being aſſured theſe impious, and unwarantable actions (of the Parl. of Scot.) cannot be done with the approbation, and conſent of the well affected people of the kingdom of Scot. and that they underſtood there were very few amongſt theſe who were in this engage<g ref="char:EOLhyphen"/>ment againſt them, that firſt engaged with them in the Covenant and cauſe, but ſuch as have been profeſſed e<g ref="char:EOLhyphen"/>nemies unto the kingdom of Scotland (which were the Parl.) however they were content to pretend thereunto, that they may the better deceive the people of this king<g ref="char:EOLunhyphen"/>dom.</p>
+            <p>That they were unwilling to impute ſuch evills to the nation ingenerall but to thoſe preſent that own, and ap<g ref="char:EOLhyphen"/>pear in them, whom they were confident, God in his due time would judge whatſoever they may ſuffer in the mean while.</p>
+            <p>Therefore they now ſend unto them that it may ap<g ref="char:EOLhyphen"/>pear they will not by any provocation, be induced to withdraw themſelvs from thoſe in Scotland, who retain their former principles, &amp; ſtill own their cauſe, (though againſt the Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l. of Scot.) wherein they have with bleſ<g ref="char:EOLhyphen"/>ſing from heaven, bin ſo long ſolemnly United. <hi>vide</hi> P. 4. and 5. of that letter.</p>
+            <pb n="5" facs="tcp:162333:4"/>
+            <p>Upon this ſcore and that encouragment, the minor dart of the people of Scot. raiſe an Army to oppoſe the Parl. of that Nation, and the Army raiſed by the ſu<g ref="char:EOLhyphen"/>pream authority thereof, and put themſelves under the Command of the E. of <hi>Argile,</hi> to fight with kill and ſlay them.</p>
+            <p>And did not L. G. <hi>Cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mwel,</hi> in purſuance of the Com<g ref="char:EOLhyphen"/>mands of the Parl. of Eng. joyn with thoſe handfull of people in Scot. to oppoſe the Parl. of Scot. and the ar<g ref="char:EOLhyphen"/>my raiſed by that authori<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and did not the eff<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t ther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of produce an abſolute diſſolution of that Parliament &amp; Committee of Eſtates?</p>
+            <p>By this time, the Reader may expect the authors In<g ref="char:EOLhyphen"/>ference upon the whole, which he once thought to have wav'd, and therefore reſolved only to toſſe the Ball a<g ref="char:EOLhyphen"/>mongſt the multitude, that ſo each judgment might cach at it, but becauſe my fellow Commoners may not be ignorant herein, I have ſet down a few undeniable con<g ref="char:EOLhyphen"/>cluſions upon the whole.</p>
+            <p n="1">1. We ſe that the K. may erre, notwithſtanding the maxim, in the law (<hi>Lex non poteſt errari</hi>) by laying ille<g ref="char:EOLhyphen"/>gall taxes Monopolies, and Impoſitions upon the peo<g ref="char:EOLhyphen"/>ple Introducing Popery, and Levying warre againſt them &amp;c.</p>
+            <p n="2">2. That in committing ſuch errors, he falſifies the truſt which the people of the land repoſe in him, &amp; then his Commands being unlawfull, and deſtructive, it is lawfull for the people to diſobey them, and on the con<g ref="char:EOLhyphen"/>trary, it is no leſſe then ſinne, and the forſiuire of all the Liberties, Freedomes and Birth-rights of the people to give obedience thereunto.</p>
+            <p n="3">3. That it is lawfull and of neceſſity for the people to
+<pb n="6" facs="tcp:162333:5"/> Leavy war againſt their King, and all that adhere to him for defence of themſelvs, and preſervation of their birth rights and freedoms, having once broken the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruſt repo<g ref="char:EOLhyphen"/>ſed in him, and put them out of his protection by levy<g ref="char:EOLhyphen"/>ing war againſt them, ruling them as a tyrant at his plea<g ref="char:EOLhyphen"/>ſure oe not as a Kiug by the law of the Nation. 4. That it is lawfull for the peoples Truſtees in Parl. to declare to the nation the miſcarriages of ſuch a tyranous prince, and to ſtate the matters of fact therein, by way of charge againſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m. 5. That it is a breach of truſt in the peoples Truſtees and a great diſhonor for the E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gliſh Nation to charge the King with ſuch high crimes, and neither to prove them againſt him, nor to clear him of them. 6. It is a great breach of the truſt, and the Nationall League and Covenant, not to bring delinquents to condigne puniſhment there being no perſon exempt by the ſame. <hi>From the ſecond part of the aſſertion plainly appears.</hi> That a Parl. by breach of Covtnant, Treaties, and Acts of Parl. voting &amp; acting againſt the Covenant, and ſiding with, and pleading the intereſt of the enemies thereof, and of that Nation, for which they are Truſtees may erre. 2. That by breach thereof they have forfeited their Truſts to the people, for whom they ſeve, and by whom they were elected. 3. That it is lawfull for the people of that Nation to Levy war againſt them for the maintenance of ther Lives and Freedoms, which that Parl. endeavours to give to their enemies and make them and their poſterity ſlaves for ever to them.</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
